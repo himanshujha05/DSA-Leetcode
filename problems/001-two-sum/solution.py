@@ -64,7 +64,8 @@ class Solution:
                 return [num_to_index[complement], i]
             num_to_index[num] = i
         
-        return []  # No solution found
+        # Problem guarantees exactly one solution exists
+        raise ValueError("No solution found - this should not happen per problem constraints")
 
 
 # Test cases

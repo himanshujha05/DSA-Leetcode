@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0567-permutation-in-string](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
@@ -30,6 +31,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0509-fibonacci-number](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -51,6 +53,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0567-permutation-in-string](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |

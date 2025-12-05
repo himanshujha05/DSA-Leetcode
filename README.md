@@ -49,11 +49,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0012-integer-to-roman) |
+| [0443-string-compression](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |

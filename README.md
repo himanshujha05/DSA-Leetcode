@@ -8,6 +8,7 @@
 | [0039-combination-sum](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0090-subsets-ii) |
+| [0704-binary-search](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0704-binary-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0567-permutation-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

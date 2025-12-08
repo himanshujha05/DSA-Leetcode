@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0090-subsets-ii) |
@@ -68,5 +69,10 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

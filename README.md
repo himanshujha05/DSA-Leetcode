@@ -47,6 +47,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -55,11 +56,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0443-string-compression](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0443-string-compression](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0567-permutation-in-string) |

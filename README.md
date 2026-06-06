@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
@@ -69,6 +70,7 @@
 | [0005-longest-palindromic-substring](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0443-string-compression](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 ## String

@@ -33,6 +33,7 @@
 | [0001-two-sum](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0567-permutation-in-string](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
@@ -87,12 +88,14 @@
 | [0012-integer-to-roman](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0443-string-compression](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0567-permutation-in-string](https://github.com/himanshujha05/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
